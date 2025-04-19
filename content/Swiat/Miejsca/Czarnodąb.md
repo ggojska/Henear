@@ -1,0 +1,5 @@
+Czarnodąb to gęsty, stary las otaczający miasto [Rozstaje], słynący z rzadkiego i niezwykle cenionego gatunku drzewa — [[Czarny Dąb|Czarnego Dębu]]. Drzewa te wyróżniają się niemal czarną korą, twardą jak żelazo, oraz liśćmi o ciemnozielonej barwie, które długo opierają się jesieni. Ich drewno nie tylko jest odporne na wilgoć i czas, ale również bardzo trudne do zapalenia, co czyni je bezcennym surowcem w rzemiośle i magii.
+
+Sam las jest miejscem dzikim, pełnym zwierząt i leśnych tajemnic. Gęste korony rzucają wieczny cień, a wilgoć osiada na porostach i mchach, które oblepiają pnie drzew. Krążą opowieści, że Czarnodęby mogą “rosnąć tam, gdzie kiedyś toczono wielkie bitwy lub umarły potężne istoty”, ale nikt nie potrafi tego dowieść.
+
+Dla mieszkańców Rozstajów Czarnodąb to zarówno skarb, jak i zagrożenie. Choć wyprawy po drewno mogą przynieść bogactwo, zbyt głęboka wędrówka w leśne ostępy rzadko kończy się bez strat.

@@ -23,4 +23,4 @@ Miasto wyróżnia się monumentalnymi, granitowymi budowlami ozdobionymi mistern
 
 Mieszkańcy Żelaznego Jaru są dumni ze swojej historii i tradycji kowalstwa. Wielkim szacunkiem darzą mistrzów rzemiosła oraz wojowników, którzy stanowią elitę miasta. Krasnoludy obchodzą wiele świąt związanych z kuźnictwem i górnictwem, podczas których płoną wielkie ogniska, a ulice miasta rozbrzmiewają pieśniami opiewającymi ich przodków.
 
-W mieście można spotkać przedstawicieli innych ras, ale ich rola w zarządzaniu miastem jest znikoma.
+W mieście można spotkać przedstawicieli innych ras, ale ich rola w życiu miasta jest znikoma i ogranicza się do handlu lub czeladnictwa.

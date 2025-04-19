@@ -1,0 +1,1 @@
+Orle Klify to strome, strzeliste ściany skalne wyrastające prosto z morza. Zamieszkują je legendarne wielkie orły, znane jako [[Ruk|ruki]], które od wieków budzą respekt zarówno wśród lokalnych mieszkańców, jak i podróżników. 

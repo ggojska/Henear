@@ -34,6 +34,6 @@ Każda z tych sił nie istnieje samodzielnie – wszystkie są niezbędne, by ws
 - - -
 ### **Dzieci Przedpierwszych**
 
-Dzieci Przedpierwszych rozumne istoty zamieszkujące świat zaczęły nazywać [[Bogowie|Bogami]]. To potężne istoty zdolne do kształtowania świata, podlegają jednak prawom narzuconym przed Przedpierwszych.
+Dzieci Przedpierwszych, rozumne istoty zamieszkujące świat zaczęły nazywać [[Bogowie|Bogami]]. To potężne istoty zdolne do kształtowania świata, podlegają jednak prawom narzuconym przed Przedpierwszych.
 
 Przedpierwsi nie są bytem, który rządzi światem w klasyczny sposób, narzucając ścisłe zasady. Zamiast tego, trzymając pieczę nad fundamentami rzeczywistości, pozwalają na dużą dowolność w rozkładzie sił między Bogami, co umożliwia światowi ewoluować, zmieniać się i rozwijać. Ich rola polega na zapewnieniu, by fundamenty – takie jak czas, przestrzeń, życie i śmierć – zostały utrzymane, podczas gdy reszta świata rozwija się w pełnej wolności.

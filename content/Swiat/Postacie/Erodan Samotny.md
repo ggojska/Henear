@@ -1,0 +1,3 @@
+Niegdyś jeden z najwybitniejszych członków [[Kolegium Magów]], Erodan opuścił jego szeregi, gdy odkrył, że część starszyzny świadomie ignoruje wpływ Kultu Diabolusa. Gdy reszta świata milczała, on postanowił mówić – i działać. Samotnie wypowiedział wojnę Kultowi, podążając śladem ich rytuałów i zamykając kolejne bramy do [[Kraina Faerie|Krainy Faerie]], skąd [[Diabolus]] próbował przenikać.
+
+Podczas ostatniego znanego starcia zniszczył własne ciało, by stworzyć awatar – odbicie siebie z czystej magii, które mogło kontynuować jego misję, niezależnie od ciała, czasu i wieku. Ten awatar do dziś zamieszkuje ruiny pod [[Czarnodąb|Czarnodębem]].

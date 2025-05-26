@@ -1,0 +1,5 @@
+Rozległa, wietrzna równina rozciągająca się na południowy zachód od [[Czarnodąb|Czarnodębu]]. Jej surowy, suchy klimat jest wynikiem bliskości [[Zapomniane Pustkowia|Zapomnianych Pustkowi]] – martwego, wyniszczonego obszaru, z którego wieją zimne i jałowe wiatry, niosąc pył i zniszczenie. Roślinność Podłego Stepu jest skąpa: niskie trawy, osty i suche krzewy walczą o przetrwanie na nieurodzajnej ziemi.
+
+Choć teren wydaje się pusty i bezludny, skrywa sieć starych szlaków i ruin – pozostałości po dawnych fortach i wioskach, opuszczonych, gdy pustkowia zaczęły się rozprzestrzeniać. Miejsce to upodobali sobie przemytnicy, wygnańcy i ci, którzy wolą zniknąć z oczu świata.
+
+Podły Step jest zapomniany przez większość cywilizowanego świata – i właśnie to stanowi jego największy atut dla tych, którzy nie mają już gdzie indziej pójść.

@@ -23,4 +23,4 @@ Plaga dotykała żywych i martwych:
 - - -
 ## **Legenda**
 
-Według szamanów z [[Qul]], Plaga Umarłych nie była przypadkiem. Mówią, że była to kara za próbę zniszczenia naturalnego porządku życia i śmierci, której efektem było wyrwanie dusz z kręgu życia i śmierci.
+Według szamanów z [[Dżungla Qul]], Plaga Umarłych nie była przypadkiem. Mówią, że była to kara za próbę zniszczenia naturalnego porządku życia i śmierci, której efektem było wyrwanie dusz z kręgu życia i śmierci.

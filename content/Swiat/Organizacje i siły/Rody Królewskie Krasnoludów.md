@@ -3,11 +3,7 @@ To rody zarządzające od pokoleń najważniejszymi [[Krasnoludy|krasnoludzkimi]
 - - -
 # **Thorgarowie**
 
-```avatar
-image: content/Resources/obrazy/Inne/Thorghar_shield.png
-size: small
-description: Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarny Kryształ|Czarnego Kryształu]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] – twierdzy i stolicy Krasnoludzkiej potęgi.
-```
+Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarny Kryształ|Czarnego Kryształu]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] – twierdzy i stolicy Krasnoludzkiej potęgi.
 
 #### **Cechy rodu:**
 
@@ -24,12 +20,7 @@ description: Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wy
 
 # **Durmirowie**
 
-```avatar
-image: content/Resources/obrazy/Inne/Durmir_shield.png
-size: small
-description: Durmirowie to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
-```
-
+Durmirowie to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
 
 #### **Cechy rodu:**
 

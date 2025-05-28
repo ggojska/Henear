@@ -8,6 +8,8 @@ Zakon Płonącego Młota to zakon paladynów, którzy czczą Wieczny Ogień – 
 - - -
 ## **Struktura Zakonu**
 
+Siedzibą Zakonu jest [[Klasztor Płonącego Młota]], leżący w pobliżu [[Strzaskane Wybrzeże|Strzaskanego Wybrzeża]].
+
 Na czele zakonu stoi Mistrz Płomienia - przywódca zakonu, wybrany spośród najbardziej doświadczonych paladynów. Sprawuje pieczę nad Wiecznym Ogniem, który płonie w sanktuarium zakonu. Reszta zakonu dzieli według poniższej hierarchii.
 Kapłani Płomienia - duchowi przewodnicy zakonu, władający magią płomieni i prowadzący rytuały ku chwale Wiecznego Ognia. Są najważniejszymi po Mistrzu Płomienia przewodnikami Zakonu.
 

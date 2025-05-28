@@ -10,7 +10,7 @@ Zapomniane Pustkowia znajdują się na krańcach znanego świata, otoczone wielk
 - - -
 ## **Historia**
 
-Zapomniane Pustkowia były niegdyś kwitnącą krainą, pełną miast, farm i świetlistych dróg. Jednak setki lat temu pojawiła się [[Plaga Umarłych]] – zaraza nieznanego pochodzenia, która przemieniała żywych w bezmyślne, gnijące marionetki. W desperacji mieszkańcy wznieśli **Mur Ciszy** – monumentalną konstrukcję z kamienia i żelaza, mającą powstrzymać zarazę. Mimo ich wysiłków, plaga ostatecznie zmiotła życie z tych ziem.
+Zapomniane Pustkowia były niegdyś kwitnącą krainą, pełną miast, farm i dróg handlowych. Jednak setki lat temu pojawiła się [[Plaga Umarłych]] – zaraza nieznanego pochodzenia, która przemieniała żywych w bezmyślne, gnijące marionetki. W desperacji mieszkańcy wznieśli **Mur Ciszy** – monumentalną konstrukcję z kamienia i żelaza, mającą powstrzymać zarazę. Mimo ich wysiłków, plaga ostatecznie zmiotła życie z tych ziem.
 ## **Charakterystyka terenu**
 
 - **Budynki**: Większość struktur to zawalone ruiny, porośnięte pleśnią i popękane przez czas.

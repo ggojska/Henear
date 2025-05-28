@@ -4,28 +4,28 @@ To istota lub fenomen, którego istnienie jednoczy różnorodne kręgi druidyczn
 
 Korzeń Świata jest czymś więcej niż tylko materialnym bytem. Dla jednych jest to żyjąca istota, o niepojętej świadomości, która zrodziła życie na świecie. Dla innych – nieskończona energia, która zasila każdy akt kreacji. Oto najważniejsze koncepcje związane z jego naturą:
 
-1. **Serce Świata**  
+**Serce Świata**  
     Korzeń Świata jest opisywany jako metaforyczne lub dosłowne serce planety, od którego odchodzą niewidzialne linie energii. Wszystkie lasy, góry, oceany i żyjące istoty są ze sobą połączone za jego sprawą.
     
-2. **Duch Natury**  
+**Duch Natury**  
     Wielu druidów uważa Korzeń Świata za uosobienie ducha natury – zarówno jej twórczą, jak i niszczycielską stronę. To istota o niezmierzonym potencjale, ale także obdarzona głęboką mądrością, która prowadzi świat ku równowadze.
     
-3. **Źródło Życia i Magii**  
+**Źródło Życia i Magii**  
     Korzeń Świata jest uznawany za pierwotne źródło zarówno życia biologicznego, jak i magii naturalnej. Wszyscy, którzy używają magii związanej z ziemią, wodą czy roślinnością, czerpią pośrednio z jego energii.
     
 - - -
 ## **Tajemnice Korzenia Świata**
 
-1. **Wieczna Sieć**  
+**Wieczna Sieć**  
     Istnieje przekonanie, że Korzeń Świata tworzy niewidzialną sieć, która łączy wszystkie istoty i miejsca. Każda ingerencja w tę sieć, czy to przez magię, czy przez zniszczenie, odbija się echem w innych częściach świata.
     
-2. **Jego Pierwotne Miejsce**  
+**Jego Pierwotne Miejsce**  
     Niektórzy druidzi twierdzą, że Korzeń ma swój "główny" punkt w świecie – miejsce, gdzie bije jego prawdziwe serce. Gdzie znajduje się to miejsce, nie wiadomo. Niektórzy wskazują Las Xarn, inni mówią o górach na krańcu świata lub bezkresnym dnie oceanów.
     
-3. **Cień Korzenia**  
+**Cień Korzenia**  
     Legendy głoszą, że Korzeń Świata ma swoją mroczną stronę – moc równie potężną, co niszczycielską. Ten **Cień Korzenia** pojawia się, gdy równowaga zostaje zachwiana, wyzwalając siły chaosu i zniszczenia. Niektóre kręgi druidów traktują ten aspekt jako ostrzeżenie, inne jako coś, co również należy zaakceptować jako część cyklu.
     
-4. **Pradawne Pieczęcie**  
+**Pradawne Pieczęcie**  
     Niektóre historie mówią, że Korzeń Świata został uwięziony lub ograniczony przez dawnych bogów lub byty. Pieczęcie te miały zapobiec zniszczeniu świata przez niekontrolowaną moc Korzenia, ale jednocześnie odcięły część jego energii od świata.
     
 - - -

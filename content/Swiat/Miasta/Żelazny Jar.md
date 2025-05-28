@@ -1,4 +1,4 @@
-Żelazny Jar to potężne [[Krasnoludy|Krasnoludów]] miasto - siedziba jednego z [[Rody Królewskie Krasnoludów|Rodów Królewskich Krasnoludów]]. Jest wykute w sercu [[Kryształowe Szczyty|Kryształowych Szczytów]], otoczone nieprzebytymi górami i dostępne jedynie przez wąskie, doskonale strzeżone przełęcze. Jego nazwa pochodzi od głębokiego, kamiennego kanionu, w którym zbudowano główne dzielnice miasta. Żelazny Jar jest nie tylko centrum kultury i władzy Krasnoludzkiej, lecz także sercem przemysłu i handlu [[Czarny Kryształ|Czarnego Kryształu]].
+Żelazny Jar to potężne [[Krasnoludy|Krasnoludów]] miasto - siedziba jednego z [[Rody Królewskie Krasnoludów|Rodów Królewskich Krasnoludów]]. Jest wykute w sercu [[Kryształowe Szczyty|Kryształowych Szczytów]], otoczone nieprzebytymi górami i dostępne jedynie przez wąskie, doskonale strzeżone przełęcze. Jego nazwa pochodzi od głębokiego, kamiennego kanionu, w którym zbudowano główne dzielnice miasta. Żelazny Jar jest nie tylko centrum kultury i władzy Krasnoludzkiej, lecz także sercem przemysłu i handlu [[Czarne Szkło|Czarnego Szkła]].
 
 - - -
 ## **Architektura**
@@ -15,7 +15,7 @@ Miasto wyróżnia się monumentalnymi, granitowymi budowlami ozdobionymi mistern
 
 ## **Obrona**
 
-Żelazny Jar jest twierdzą niemal niezdobytą. Jego potężne bramy wykonane z kamienia, stali z dodatkami run z Czarnego Kryształu oraz liczne fortyfikacje strzeżone przez wyszkolone oddziały Krasnoludzkich wojowników sprawiają, że nikt nie odważył się najechać miasta od stuleci. Dodatkowo miasto jest zabezpieczone przed magią przez starożytne runiczne bariery.
+Żelazny Jar jest twierdzą niemal niezdobytą. Jego potężne bramy wykonane z kamienia, stali z dodatkami run z Czarnego Szkła oraz liczne fortyfikacje strzeżone przez wyszkolone oddziały Krasnoludzkich wojowników sprawiają, że nikt nie odważył się najechać miasta od stuleci. Dodatkowo miasto jest zabezpieczone przed magią przez starożytne runiczne bariery.
 
 - - -
 

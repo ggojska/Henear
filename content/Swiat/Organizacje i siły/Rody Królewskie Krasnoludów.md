@@ -20,7 +20,7 @@ Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się
 
 # **Durmirowie**
 
-Durmirowie to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
+Ród Durmirów to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
 
 #### **Cechy rodu:**
 

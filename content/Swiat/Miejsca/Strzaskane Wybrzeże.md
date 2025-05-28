@@ -1,1 +1,3 @@
 Rozciągające się na południowym-zachodzie kontynentu Strzaskane Wybrzeże to pas skalistego wybrzeża, gdzie burze są codziennością, a fale biją o spękane klify z siłą zdolną roztrzaskać statki. Ziemia tu jest niestabilna, pełna osuwisk i pęknięć, a wiatry wyją przez całą dobę, jakby same skały lamentowały nad tym miejscem. Żeglarze trzymają się od wybrzeża z daleka – nie bez powodu.
+
+Przez wieki wybrzeże to było miejscem odosobnienia i próby dla tych, którzy poszukiwali duchowego oczyszczenia lub wiedzy o zapomnianych mocach. Wśród skalistych formacji znajduje się [[Klasztor Płonącego Młota]].

@@ -6,7 +6,7 @@ Najbardziej niezwykłym aspektem Starego Lasu jest cywilizacja goblinów, które
 
 ## **Gobliny Starego Lasu**  
 
-Gobliny żyją w domach zbudowanych w dziuplach drzew, pod korzeniami lub w naturalnych jaskiniach. Są znane z wyjątkowej zaradności i umiejętności przystosowania się do trudnych warunków. W przeciwieństwie do swoich bardziej wojowniczych kuzynów z innych krain, gobliny Starego Lasu skupiają się na współpracy, tworzeniu narzędzi i handlu z innymi mieszkańcami lasu.
+Gobliny Starego Lasu żyją w domach zbudowanych w dziuplach drzew, pod korzeniami lub w naturalnych jaskiniach. Są znane z wyjątkowej zaradności i umiejętności przystosowania się do trudnych warunków. W przeciwieństwie do swoich bardziej wojowniczych kuzynów z innych krain, Gobliny Starego Lasu skupiają się na współpracy, tworzeniu narzędzi i handlu z innymi mieszkańcami lasu.
 
 - **Kultura:** Gobliny wykształciły własną sztukę i rytuały. Uwielbiają muzykę graną na instrumentach wykonanych z drewna i kości. Ich święta, takie jak „Noc Korzeni,” gromadzą nie tylko gobliny, ale też inne istoty leśne.
 - **Styl życia:** Żyją w zgodzie z naturą, zbierając owoce, zioła i polując na drobną zwierzynę. Są mistrzami w budowie pułapek, które służą zarówno do obrony, jak i do polowań.

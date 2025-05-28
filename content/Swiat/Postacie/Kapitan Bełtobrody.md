@@ -19,6 +19,6 @@ Dowodzi okrętem o wdzięcznej nazwie [[Osrana Dziewica]], który mimo groteskow
 - - - 
 #### **Plotki**
 
-- Podobno handluje zakazanymi artefaktami z podziemnego świata [[Lukave]].
+- Podobno handluje zakazanymi artefaktami w Podziemiach [[Lukave]].
 - Podobno zna zaklęcie, które sprawia, że [[Osrana Dziewica]] potrafi pływać po lądzie, jeśli deszcz trwa dłużej niż trzy dni.
 - Miał romans z syreną i przez to nigdy nie wypływa w pełnię księżyca.

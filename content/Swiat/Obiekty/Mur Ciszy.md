@@ -1,2 +1,1 @@
 Ten kolosalny mur otacza [[Zapomniane Pustkowia]]. Wysoki na 5 i szeroki na 2 metry, wykonany jest z szarego, niemal czarnego kamienia. Znaki runiczne wyryte na jego powierzchni świecą bladą poświatą, co wskazuje na obecność starożytnej magii ochronnej. Jednak wiele run jest dziś uszkodzonych. W połowie jego długości znajduje się [[Cichy Bastion]]
-- - -

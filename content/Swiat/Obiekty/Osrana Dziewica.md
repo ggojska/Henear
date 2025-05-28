@@ -1,1 +1,1 @@
-Statek [[Kapitan Bełtobrody|Kapitana Bełtobrodego]]
+Statek [[Kapitan Bełtobrody|Kapitana Bełtobrodego]].

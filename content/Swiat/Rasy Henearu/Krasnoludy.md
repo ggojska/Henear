@@ -1,5 +1,5 @@
 
-Krasnoludy to dumny lud gór, znany z mistrzowskiego rzemiosła i niezłomnej wytrwałości. Ich społeczeństwo opiera się na klanach, a tradycje przekazywane są z pokolenia na pokolenie. Stolica, **Żelazny Jar**, to monumentalna twierdza wykuta w sercu góry – symbol ich potęgi i więzi z ziemią.
+Krasnoludy to dumny lud gór, znany z mistrzowskiego rzemiosła i niezłomnej wytrwałości. Ich społeczeństwo opiera się na klanach, a tradycje przekazywane są z pokolenia na pokolenie. Stolica, **[[Żelazny Jar]]**, to monumentalna twierdza wykuta w sercu góry – symbol ich potęgi i więzi z ziemią.
 
 Szanują przodków i wierzą, że ich dusze spoczywają w głębinach świata. Z innymi rasami współpracują ostrożnie, ceniąc honor i dotrzymywanie umów. Krasnoludy to mistrzowie metalu i kamienia, a ich twierdze i bronie przetrwały wiele prób czasu.
 

@@ -1,4 +1,4 @@
-Żelazny Jar to potężne [[Krasnoludy|Krasnoludów]] miasto - siedziba Rodu Królewskiego Krasnoludów. Jest wykute w sercu [[Kryształowe Szczyty|Kryształowych Szczytów]], otoczone nieprzebytymi górami i dostępne jedynie przez wąskie, doskonale strzeżone przełęcze. Jego nazwa pochodzi od głębokiego, kamiennego kanionu, w którym zbudowano główne dzielnice miasta. Żelazny Jar jest nie tylko centrum kultury i władzy Krasnoludzkiej, lecz także sercem przemysłu i handlu [[Czarny Kryształ|Czarnego Kryształu]].
+Żelazny Jar to potężne [[Krasnoludy|Krasnoludów]] miasto - siedziba jednego z  [[Rody Królewskie Krasnoludów|Rodów Królewskich Krasnoludów]]. Jest wykute w sercu [[Kryształowe Szczyty|Kryształowych Szczytów]], otoczone nieprzebytymi górami i dostępne jedynie przez wąskie, doskonale strzeżone przełęcze. Jego nazwa pochodzi od głębokiego, kamiennego kanionu, w którym zbudowano główne dzielnice miasta. Żelazny Jar jest nie tylko centrum kultury i władzy Krasnoludzkiej, lecz także sercem przemysłu i handlu [[Czarny Kryształ|Czarnego Kryształu]].
 
 - - -
 ## **Architektura**

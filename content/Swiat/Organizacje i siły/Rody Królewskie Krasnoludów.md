@@ -1,7 +1,9 @@
-- - -
-## **Thorgarowie**
+To rody zarządzające od pokoleń najważniejszymi [[Krasnoludy|krasnoludzkimi]] miastami w Henearze.
 
-**Thorgarowie** to najstarszy i najpotężniejszy ród [[Krasnoludy|krasnoludzki]], wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarny Kryształ|Czarnego Kryształu]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] – twierdzy i stolicy Krasnoludzkiej potęgi.
+- - -
+# **Thorgarowie**
+
+Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarny Kryształ|Czarnego Kryształu]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] – twierdzy i stolicy Krasnoludzkiej potęgi.
 
 #### **Cechy rodu:**
 
@@ -16,9 +18,9 @@
 
 - - - 
 
-## **Durmirowie**
+# **Durmirowie**
 
-**Durmirowie** to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy [[Miedziane Szczyty|łańcuch Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
+Durmirowie to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy [[Miedziane Szczyty|łańcuch Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
 
 #### **Cechy rodu:**
 

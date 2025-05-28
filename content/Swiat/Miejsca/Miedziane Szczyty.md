@@ -1,4 +1,4 @@
-Miedziane Szczyty to pasmo górskie rozciągające się na południu Henearu, znane jest z ciepłych barw skał o rudawym zabarwieniu. W świetle zachodzącego słońca szczyty lśnią niczym rozpalone ostrza, co dało górom ich nazwę. W ich sercu znajduje się [[Miedzioryn]] - stolica południowych [[Rody Królewskie Krasnoludów|rodów krasnoludzkich]].
+Miedziane Szczyty to pasmo górskie rozciągające się na południu Henearu, znane jest z ciepłych barw skał o rudawym zabarwieniu. W świetle zachodzącego słońca szczyty lśnią niczym rozpalone ostrza, co dało górom ich nazwę. W ich sercu znajduje się [[Miedzioryn]] - stolica [[Rody Królewskie Krasnoludów|południowych rodów krasnoludzkich]].
 
 ### Cechy charakterystyczne:
 

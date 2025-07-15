@@ -1,3 +1,3 @@
 Położone na granicy [[Czarnodąb|Czarnodębu]] i [[Kryształowe Szczyty|Kryształowych Szczytów]], Zimne Jezioro to rozległy, ciemnoniebieski akwen, którego wody nawet latem pozostają lodowato zimne. Zasilane przez strumienie spływające z górskich lodowców i ukryte leśne źródła, uchodzi za jedno z najczystszych jezior w całym Henearze.
 
-Mgły często unoszą się nad taflą, zwłaszcza o świcie, a jego powierzchnia bywa tak spokojna, że odbicie otaczających szczytów i drzew przypomina doskonałe lustro. W jego głębinach kryją się prastare ryby, a niektórzy twierdzą, że i coś znacznie starszego — echo dawnych czasów lub istot, które uciekły przed wzrokiem Przedpierwszych.
+Mgła często unoszi się nad taflą, zwłaszcza o świcie, a powierzchnia jeziora bywa tak spokojna, że zdaje się przypominać doskonałe lustro. W jego głębinach kryją się prastare ryby, a niektórzy twierdzą, że i coś znacznie starszego — echo dawnych czasów lub istot, które uciekły przed wzrokiem swiata.

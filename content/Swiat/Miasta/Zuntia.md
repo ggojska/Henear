@@ -6,7 +6,9 @@ Zuntia to strategicznie położone miasto, wciśnięte w wąską przełęcz gór
 
 ## **Kultura i Mieszkańcy**
 
-Zuntia jest domem dla mieszanki ras: [[Ludzie|Ludzi]], [[Krasnoludy|Krasnoludów]], [[Orkowie|Orków]] i [[Gobliny|Goblinów]], którzy wspólnie zarządzają miastem. Mieszkańcy znani są ze swojej twardej natury, odporności na surowy klimat oraz zdolności do adaptacji. Krasnoludy zajmują się obróbką metalu i budownictwem, Orkowie pełnią rolę przewodników i ochrony karawan, Ludzie dominują w handlu, a Gobliny zajmują się utrzymaniem i budową komunikacji miejskiej - jedynej w Henearze. Współpraca między rasami jest kluczem do przetrwania miasta w tak trudnym środowisku.
+Zuntia jest domem dla mieszanki ras: [[Ludzie|Ludzi]], [[Krasnoludy|Krasnoludów]], [[Orkowie|Orków]], [[Gobliny|Goblinów]] i [[Niziołki|Niziołków]], którzy wspólnie zarządzają miastem. Mieszkańcy znani są ze swojej twardej natury, odporności na surowy klimat oraz zdolności do adaptacji. 
+
+Gobliny zajmują się utrzymaniem i budową komunikacji miejskiej - jedynej w Henearze. Współpraca między rasami jest kluczem do przetrwania miasta w tak trudnym środowisku.
 
 - - -
 ## **Zagrożenia**

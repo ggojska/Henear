@@ -1,6 +1,6 @@
 
 **„Qul to miejsce, w którym granica między rzeczywistością a iluzją staje się niewyraźna.”**  
-_– Obserwator z Plemienia Qulnara_
+_- Obserwator z Plemienia Qulnara_
 
 - - -
 

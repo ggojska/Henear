@@ -3,8 +3,8 @@ Elarion Korzenna Dłoń to postać otoczona legendami, której imię wybrzmiewa 
 - - -
 ## **Życie Elariona**
 
-- **Pochodzenie**: Elarion pochodził z małej, zapomnianej osady na obrzeżach Lasu Xarn. Już jako dziecko odznaczał się niezwykłą empatią wobec przyrody – jego rodzice opowiadali, że potrafił "rozmawiać" z drzewami i przyciągać zwierzęta.
-- **Przebudzenie**: Legenda głosi, że w młodości podczas burzy Elarion zaginął na wiele dni w głębokich zakamarkach lasu. Tam, w mroku i deszczu, usłyszał głos [[Korzeń Świata|Korzenia Świata]], który nakazał mu zostać strażnikiem lasu. Po powrocie Elarion był już innym człowiekiem – wypełnionym spokojem i nieznaną wcześniej siłą.
+- **Pochodzenie**: Elarion pochodził z małej, zapomnianej osady na obrzeżach Lasu Xarn. Już jako dziecko odznaczał się niezwykłą empatią wobec przyrody - jego rodzice opowiadali, że potrafił "rozmawiać" z drzewami i przyciągać zwierzęta.
+- **Przebudzenie**: Legenda głosi, że w młodości podczas burzy Elarion zaginął na wiele dni w głębokich zakamarkach lasu. Tam, w mroku i deszczu, usłyszał głos [[Korzeń Świata|Korzenia Świata]], który nakazał mu zostać strażnikiem lasu. Po powrocie Elarion był już innym człowiekiem - wypełnionym spokojem i nieznaną wcześniej siłą.
 - **Założenie Klanu**: Pogrążony w zadumie nad tym co go spotkało postanowił poświęcić swoje życie studiowaniu i ochronie Lasu Xarn.
 
 - - -

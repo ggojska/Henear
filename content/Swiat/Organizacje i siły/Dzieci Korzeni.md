@@ -1,9 +1,9 @@
 ## **Opis**
-Dzieci Korzeni to klan druidów zamieszkujący głębokie serce [[Las Xarn|Lasu Xarn]], znany z niezwykłej więzi z naturą oraz starożytną magią ziemi. Uważają się za prawdziwe dzieci lasu – ich życie, wierzenia i cele są nierozerwalnie związane z potęgą i harmonią przyrody. Są zarówno opiekunami, jak i obrońcami Lasu Xarn , strzegąc jego sekretów przed tymi, którzy mogliby je wykorzystać lub zniszczyć.
+Dzieci Korzeni to klan druidów zamieszkujący głębokie serce [[Las Xarn|Lasu Xarn]], znany z niezwykłej więzi z naturą oraz starożytną magią ziemi. Uważają się za prawdziwe dzieci lasu - ich życie, wierzenia i cele są nierozerwalnie związane z potęgą i harmonią przyrody. Są zarówno opiekunami, jak i obrońcami Lasu Xarn , strzegąc jego sekretów przed tymi, którzy mogliby je wykorzystać lub zniszczyć.
 - - -
 ## **Filozofia i Wierzenia**
 
-Dzieci Korzeni wierzą, że las jest żyjącą istotą, a każda jego część – od najmniejszego owada po największe drzewo – jest częścią wielkiego, duchowego ekosystemu. Utrzymują, że korzenie drzew nie są tylko fizycznymi strukturami, ale także magicznymi więzami łączącymi wszystkie istoty w jedną sieć życia i energii.
+Dzieci Korzeni wierzą, że las jest żyjącą istotą, a każda jego część - od najmniejszego owada po największe drzewo - jest częścią wielkiego, duchowego ekosystemu. Utrzymują, że korzenie drzew nie są tylko fizycznymi strukturami, ale także magicznymi więzami łączącymi wszystkie istoty w jedną sieć życia i energii.
 
 - **Prawo Równowagi**: Każda ingerencja w naturę musi być zrównoważona. Jeśli coś zostaje wzięte z lasu, coś innego musi być zwrócone.
 - **Korzenie jako Pamięć Świata**: Dzieci Korzeni wierzą, że w korzeniach drzew przechowywana jest pamięć dawnych czasów, a ich rytuały często polegają na " rozmowach" z tym pradawnym, podziemnym archiwum.

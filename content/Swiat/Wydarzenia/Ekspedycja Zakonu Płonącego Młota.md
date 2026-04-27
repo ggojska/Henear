@@ -1,13 +1,13 @@
 Owiana tajemnicą ekspedycja za Mur Ciszy przeprowadzona przez Zakon Płonącego Młota. 
 
 **"Powrócili, ale czy naprawdę żywi? Nikt nie wie, co zostawili za murami… a co zabrali ze sobą."**  
-_– Anonimowy kronikarz_
+_- Anonimowy kronikarz_
 - - -
 ## **Przebieg i Wynik**  
 
-Zakon Płonącego Młota wysłał jedną ze swoich najbardziej elitarnych grup – 40 wyszkolonych paladynów, wspieranych przez 12 kapłanów. Wyprawa trwała łącznie trzy tygodnie, a co zaskakujące, 34 uczestników wróciło żywych. Jednak od chwili powrotu nikt z uczestników nie chciał mówić o tym, co działo się za Murami Ciszy.
+Zakon Płonącego Młota wysłał jedną ze swoich najbardziej elitarnych grup - 40 wyszkolonych paladynów, wspieranych przez 12 kapłanów. Wyprawa trwała łącznie trzy tygodnie, a co zaskakujące, 34 uczestników wróciło żywych. Jednak od chwili powrotu nikt z uczestników nie chciał mówić o tym, co działo się za Murami Ciszy.
 
-Wszystkie raporty zostały zapieczętowane w siedzibie zakonu, a ci, którzy naciskali na wyjawienie szczegółów, byli cicho odsuwani lub znikali. Ocalali wydają się zdrowi fizycznie, ale wielu świadków opisywało ich jako dziwnie odmienionych – cichych, przytłoczonych i patrzących w dal, jakby widzieli coś, co nieustannie ich prześladuje.
+Wszystkie raporty zostały zapieczętowane w siedzibie zakonu, a ci, którzy naciskali na wyjawienie szczegółów, byli cicho odsuwani lub znikali. Ocalali wydają się zdrowi fizycznie, ale wielu świadków opisywało ich jako dziwnie odmienionych - cichych, przytłoczonych i patrzących w dal, jakby widzieli coś, co nieustannie ich prześladuje.
 
 - - -
 ## **Tajemnice i Spekulacje**

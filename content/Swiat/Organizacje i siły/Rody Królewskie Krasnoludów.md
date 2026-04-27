@@ -3,24 +3,24 @@ To rody zarządzające od pokoleń najważniejszymi [[Krasnoludy|krasnoludzkimi]
 - - -
 # **Thorgarowie**
 
-Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarne Szkło|Czarnego Szkła]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] – twierdzy i stolicy Krasnoludzkiej potęgi.
+Thorgarowie to najstarszy i najpotężniejszy ród krasnoludzki, wywodzący się z serca [[Kryształowe Szczyty|Kryształowych Szczytów]]. Ich przodkowie jako pierwsi wykuli tunele w zimnym kamieniu tych gór i odkryli złoża [[Czarne Szkło|Czarnego Szkła]], zyskując władzę, której nikt nie zdołał im odebrać od pokoleń. Obecnie ród rezyduje w [[Żelazny Jar|Żelaznym Jarze]] - twierdzy i stolicy Krasnoludzkiej potęgi.
 
 #### **Cechy rodu:**
 
 - **Symbol:** Młot przebijający kryształ
 - **Dewiza:** „Ze skały, przez ogień, ku chwale.”
-- **Dziedzictwo:** Ród słynie z mistrzów kowalstwa, sztuki runicznej oraz twardych, nieustępliwych władców. Ich krew uważana jest za „gorącą stal” – nie poddaje się ani chłodowi, ani czasowi.
+- **Dziedzictwo:** Ród słynie z mistrzów kowalstwa, sztuki runicznej oraz twardych, nieustępliwych władców. Ich krew uważana jest za „gorącą stal” - nie poddaje się ani chłodowi, ani czasowi.
 - **Monopol:** To właśnie Thorgarowie kontrolują wydobycie i obróbkę Czarnego Szkła, dzięki czemu utrzymują pozycję niekwestionowanych władców gór.
 
 #### **Obecny monarcha:**
 
-**Król Borin Żelaznobrody**. Sędziwy, lecz nieugięty, rządzi z żelazną dyscypliną. Uważa, że zewnętrzny świat jest zbyt chwiejny, by można mu ufać – dlatego bramy Żelaznego Jaru rzadko bywają otwarte.
+**Król Borin Żelaznobrody**. Sędziwy, lecz nieugięty, rządzi z żelazną dyscypliną. Uważa, że zewnętrzny świat jest zbyt chwiejny, by można mu ufać - dlatego bramy Żelaznego Jaru rzadko bywają otwarte.
 
 - - - 
 
 # **Durmirowie**
 
-Ród Durmirów to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica – [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
+Ród Durmirów to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący południowy łańcuch [[Miedziane Szczyty|Miedzianych Szczytów]], gdzie wznosi się ich wielopoziomowa stolica - [[Miedzioryn]]. Choć ustępują Thorgarom wiekiem i militarną siłą, to pod względem kunsztu, inżynierii i postępu nie mają sobie równych. To ród nowatorów, który nie boi się handlu, kontaktów z obcymi i łamania starych schematów.
 
 #### **Cechy rodu:**
 
@@ -31,4 +31,4 @@ Ród Durmirów to wpływowy ród [[Krasnoludy|krasnoludzki]], zamieszkujący po�
 
 #### **Obecny władca:**
 
-**Thalin Miedziogryf**. Pragnie uczynić z Miedziorynu centrum postępu i nowej myśli krasnoludzkiej. Wbrew tradycjom nie boi się rozmawiać z magami, ludźmi, a nawet elfami – co czyni go postacią kontrowersyjną w oczach starszyzny z północy.
+**Thalin Miedziogryf**. Pragnie uczynić z Miedziorynu centrum postępu i nowej myśli krasnoludzkiej. Wbrew tradycjom nie boi się rozmawiać z magami, ludźmi, a nawet elfami - co czyni go postacią kontrowersyjną w oczach starszyzny z północy.

@@ -1,5 +1,5 @@
 
-Północny Kres to miasto, które powstało z konieczności współistnienia trzech ras – [[Ludzie|Ludzi]], [[Krasnoludy|Krasnoludów]] i [[Orkowie|Orków]]. Zlokalizowane na granicy surowych, mroźnych terenów [[Północna Grań|Północnej Grani]], miasto pełni rolę strategicznego portu eksportującego materiały z Północnej Grani do całego Henearu. Choć jego mieszkańcy różnią się pod względem kultury i tradycji, Północny Kres stał się symbolem współpracy i trudnej równowagi pomiędzy rasami.
+Północny Kres to miasto, które powstało z konieczności współistnienia trzech ras - [[Ludzie|Ludzi]], [[Krasnoludy|Krasnoludów]] i [[Orkowie|Orków]]. Zlokalizowane na granicy surowych, mroźnych terenów [[Północna Grań|Północnej Grani]], miasto pełni rolę strategicznego portu eksportującego materiały z Północnej Grani do całego Henearu. Choć jego mieszkańcy różnią się pod względem kultury i tradycji, Północny Kres stał się symbolem współpracy i trudnej równowagi pomiędzy rasami.
 
 - - -
 ## **Kultura i Społeczeństwo**  
@@ -25,4 +25,4 @@ Te towary sprawiają, że Północny Kres jest ważnym centrum handlowym, przyci
 - - -
 ## **Lodowe Trolle**
 
-Północny Kres stoi obecnie przed poważnym zagrożeniem – lodowymi trollami, które zaczęły coraz częściej atakować miasto oraz kopalnie i miejsca wyrąbu drzew. Zmniejszająca się ilość zwierząt w górach oraz zmiany w ekosystemie zmuszają trolle do poszukiwania łatwiejszych ofiar. Mieszkańcy Północnego Kresu stają się coraz częstszymi celami ich polowań.
+Północny Kres stoi obecnie przed poważnym zagrożeniem - lodowymi trollami, które zaczęły coraz częściej atakować miasto oraz kopalnie i miejsca wyrąbu drzew. Zmniejszająca się ilość zwierząt w górach oraz zmiany w ekosystemie zmuszają trolle do poszukiwania łatwiejszych ofiar. Mieszkańcy Północnego Kresu stają się coraz częstszymi celami ich polowań.

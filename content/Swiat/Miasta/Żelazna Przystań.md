@@ -13,4 +13,4 @@ Miasto składa się z niskich, solidnych budynków z kamienia i drewna, wzmocnio
 - - -
 ## **Czarny Kryształ**
 
-Żelazna Przystań wykorzystuje swoje pragmatyczne podejście do magii w bardzo specyficzny sposób – kupuje od krasnoludów z Kryształowych Szczytów rzadki Czarny Kryształ, z którego miejscowi rzemieślnicy tworzą artefakty antymagiczne. Dzięki temu miasto jest znane z produkcji przedmiotów, które mogą neutralizować zaklęcia i chronić przed wpływem magii, co jeszcze bardziej wzmacnia jego prestiż oraz niezależność w świecie.
+Żelazna Przystań wykorzystuje swoje pragmatyczne podejście do magii w bardzo specyficzny sposób - kupuje od krasnoludów z Kryształowych Szczytów rzadki Czarny Kryształ, z którego miejscowi rzemieślnicy tworzą artefakty antymagiczne. Dzięki temu miasto jest znane z produkcji przedmiotów, które mogą neutralizować zaklęcia i chronić przed wpływem magii, co jeszcze bardziej wzmacnia jego prestiż oraz niezależność w świecie.

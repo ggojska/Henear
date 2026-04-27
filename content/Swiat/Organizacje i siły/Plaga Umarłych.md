@@ -1,6 +1,6 @@
 _Klątwa, która pochłonęła całe krainy_
 
-Plaga Umarłych to przerażająca katastrofa, która zniszczyła całe krainy, pozostawiając po sobie jedynie [[Zapomniane Pustkowia]]. Była nie tylko chorobą, lecz klątwą – tajemniczą siłą, która wskrzeszała zmarłych jako bezmyślne, głodne cienie dawnego życia.
+Plaga Umarłych to przerażająca katastrofa, która zniszczyła całe krainy, pozostawiając po sobie jedynie [[Zapomniane Pustkowia]]. Była nie tylko chorobą, lecz klątwą - tajemniczą siłą, która wskrzeszała zmarłych jako bezmyślne, głodne cienie dawnego życia.
 
 - - -
 ## **Pochodzenie**

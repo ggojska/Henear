@@ -4,7 +4,7 @@
 
 - - - 
 
-Kapitan Bełtobrody to jeden z najbardziej nieuchwytnych i bezwzględnych piratów Henearu. Jego przydomek nie ma nic wspólnego z wyglądem – sam nosi krótką, schludną brodę, ale nazwisko odziedziczył po swoim przodku, równie niesławnym piracie z czasów Wojny Trzech Zatok.
+Kapitan Bełtobrody to jeden z najbardziej nieuchwytnych i bezwzględnych piratów Henearu. Jego przydomek nie ma nic wspólnego z wyglądem - sam nosi krótką, schludną brodę, ale nazwisko odziedziczył po swoim przodku, równie niesławnym piracie z czasów Wojny Trzech Zatok.
 
 Dowodzi okrętem o wdzięcznej nazwie [[Osrana Dziewica]], który mimo groteskowej nazwy sieje postrach wśród żeglarzy. Statek słynie z niespodziewanych abordażów i znikania we mgle niczym widmo. Krążą plotki, że jego żagle zszyto z tkanin zdobytych na przeklętych statkach.
 
@@ -14,7 +14,7 @@ Dowodzi okrętem o wdzięcznej nazwie [[Osrana Dziewica]], który mimo groteskow
 - Napadu na konwój królewskiej floty w Zatoce Stu Szczytów.
 - Posiadania Czarnego Kompasu.
 - Zdradzenia trzech różnych kapitanów w jeden tydzień.
-- Nieudanej próby zagarnięcia Korsarskiej Przystani – teraz mieszka tam tylko „na zaproszenie”.
+- Nieudanej próby zagarnięcia Korsarskiej Przystani - teraz mieszka tam tylko „na zaproszenie”.
 
 - - - 
 #### **Plotki**

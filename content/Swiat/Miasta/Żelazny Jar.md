@@ -3,7 +3,7 @@
 - - -
 ## **Architektura**
 
-Miasto wyróżnia się monumentalnymi, granitowymi budowlami ozdobionymi misternymi rzeźbieniami przedstawiającymi historię krasnoludów. Wewnątrz gór znajdują się rozległe hale, w których mieszczą się kuźnie, magazyny i pałac królewski. Centralną częścią miasta jest Wielka Sala Żaru, gdzie płonie wieczny ogień – symbol siły krasnoludów.
+Miasto wyróżnia się monumentalnymi, granitowymi budowlami ozdobionymi misternymi rzeźbieniami przedstawiającymi historię krasnoludów. Wewnątrz gór znajdują się rozległe hale, w których mieszczą się kuźnie, magazyny i pałac królewski. Centralną częścią miasta jest Wielka Sala Żaru, gdzie płonie wieczny ogień - symbol siły krasnoludów.
 
 - - -
 

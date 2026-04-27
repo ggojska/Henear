@@ -15,8 +15,8 @@ Choć Czarny Dąb występuje wyłącznie w [[Czarnolas|Czarnolesie]], nie rośni
 - - -
 ### **Magowie i badacze:**
 
-Niektórzy próbują uprawiać Czarny Dąb, sadząc go w kontrolowanych warunkach – bezskutecznie.
+Niektórzy próbują uprawiać Czarny Dąb, sadząc go w kontrolowanych warunkach - bezskutecznie.
 
 Najpotężniejsi magowie sądzą, że Czarny Dąb to forma życia z [[Kraina Faerie|Krainy Faerie]], która szuka zakorzenienia w naszym świecie.
 
-Istnieją teorie, że sama Kraina Faire próbuje „zaczepić się” o Henear – a Czarne Dęby są pierwszym symptomem tej kolonizacji.
+Istnieją teorie, że sama Kraina Faire próbuje „zaczepić się” o Henear - a Czarne Dęby są pierwszym symptomem tej kolonizacji.

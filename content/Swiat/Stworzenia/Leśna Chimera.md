@@ -1,5 +1,5 @@
 ## **Wygląd i cechy szczególne**
-Hybrydyczne stworzenia z cechami kilku zwierząt – na przykład ciała wilka, skrzydeł orła i wężowego ogona.
+Hybrydyczne stworzenia z cechami kilku zwierząt - na przykład ciała wilka, skrzydeł orła i wężowego ogona.
 
 ![[lesna_chimera.jpg|center|300]]
 

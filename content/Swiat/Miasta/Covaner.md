@@ -1,10 +1,12 @@
 
-Covaner to urokliwe miasto położone na skraju rozległych pól i gęstych lasów, którego mieszkańcy, Niziołkowie i Ludzie, od pokoleń żyją w harmonii. Miasto słynie z żyznych ziem oraz malowniczych ogrodów i sadów, które dostarczają obfitych plonów. Pomimo swojego spokojnego charakteru, Covaner zmaga się z nieustannym zagrożeniem ze strony Pajęczej Puszczy, leżącej na południowych obrzeżach miasta.
+Covaner to miasto położone niedaleko [[Orle Klify|Orlich Klifów]] - monumentalnych urwisk, będących domem dla potężnych ruków. To właśnie ich obecność ukształtowała charakter miasta. Choć zamieszkane głównie przez ludzi i niziołków, Covaner wyróżnia się na tle innych ośrodków swoją obsesją na punkcie badań nad rukami.
+
+Miasto rozciąga się na kilku poziomach - od niskich dzielnic handlowych po wyższe tarasy obserwacyjne skierowane w stronę klifów. W powietrzu niemal zawsze unosi się krzyk wielkich ptaków, a ich cienie regularnie przesuwają się po dachach i ulicach.
 
 - - -
-## **Architektura i życie codzienne**  
+### **Rucza Wieża**
 
-Miasto zbudowane jest z niskich, kamienno-drewnianych domów, wiele z nich posiada dachy pokryte roślinami, co dodatkowo podkreśla niziołkowy styl życia, blisko natury. Na głównym rynku często odbywają się targi, gdzie można znaleźć wszystko – od lokalnych wyrobów po egzotyczne towary przyniesione przez wędrowców.
+Najbardziej charakterystyczna budowla miasta. To wysoka, smukła konstrukcja z jasnego kamienia, wznosząca się ponad dachami Covaner. Jej szczyt pozostaje całkowicie niedostępny dla ludzi - nie prowadzą do niego żadne schody ani przejścia.
 
 - - -
 ## **Zagrożenie z Pajęczej Puszczy**  

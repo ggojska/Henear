@@ -3,7 +3,7 @@
 ![[PlonacyMlot.jpg|center|250]]
 ## **Filozofia i Wiara**
 
-Zakon Płonącego Młota to zakon paladynów, którzy czczą Wieczny Ogień – święty płomień symbolizujący czystość, odnowienie i nieustającą walkę ze złem. Dla członków zakonu ogień nie jest jedynie fizycznym zjawiskiem, lecz manifestacją boskiej mocy, która spala wszelką nieczystość i daje nadzieję na odrodzenie świata.
+Zakon Płonącego Młota to zakon paladynów, którzy czczą Wieczny Ogień - święty płomień symbolizujący czystość, odnowienie i nieustającą walkę ze złem. Dla członków zakonu ogień nie jest jedynie fizycznym zjawiskiem, lecz manifestacją boskiej mocy, która spala wszelką nieczystość i daje nadzieję na odrodzenie świata.
 
 - - -
 ## **Struktura Zakonu**
@@ -28,5 +28,5 @@ Adeptów przygotowuje się zarówno do walki, jak i do zrozumienia symboliki ogn
 
 - - -
 
-**„W ogniu nie znajdziesz tylko zniszczenia – znajdziesz również siłę, by na nowo stworzyć świat.”**  
-_– Mistrz Płomienia Tharos Elden_
+**„W ogniu nie znajdziesz tylko zniszczenia - znajdziesz również siłę, by na nowo stworzyć świat.”**  
+_- Mistrz Płomienia Tharos Elden_

@@ -3,7 +3,7 @@ Stolica [[Rody Królewskie Krasnoludów|południowego krasnoludzkiego rodu]], po
 - - -
 ## **Architektura**
 
-Architektura miasta jest funkcjonalna, ale jednocześnie estetyczna – mosty i balustrady zdobią ornamenty z miedzi, a na bramach widać zdobienia w kształcie zębatych mechanizmów i symboli rzemiosła. 
+Architektura miasta jest funkcjonalna, ale jednocześnie estetyczna - mosty i balustrady zdobią ornamenty z miedzi, a na bramach widać zdobienia w kształcie zębatych mechanizmów i symboli rzemiosła. 
 
 W centrum miasta znajduje się ogromna hala kuźnicza, gdzie mistrzowie kowalstwa, mechanicy i artyści metali tworzą swoje dzieła, łącząc tradycyjne techniki z najnowszymi osiągnięciami inżynierii.
 

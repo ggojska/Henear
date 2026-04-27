@@ -7,7 +7,7 @@ Na głównym placu wisi ogromny dzwon, którego bicie oznacza przybycie nowej fl
 - - -
 ## **Znane miejsca w mieście:**
 
-1. **Paszcza Krakena** – największa tawerna, w której załatwia się wszystkie interesy, od wymiany łupów po werbunek załogi.
-2. **Czarne Doki** – port, w którym cumują pirackie statki, otoczony warsztatami rzemieślników tworzących broń i naprawiających okręty.
-3. **Cmentarz Żagli** – miejsce, gdzie zatopione statki służą jako fundamenty dla nowych budowli i platform.
-4. **Rynek Cieni** – targowisko, na którym można kupić rzadkie towary, od map skarbów po zakazane artefakty.
+1. **Paszcza Krakena** - największa tawerna, w której załatwia się wszystkie interesy, od wymiany łupów po werbunek załogi.
+2. **Czarne Doki** - port, w którym cumują pirackie statki, otoczony warsztatami rzemieślników tworzących broń i naprawiających okręty.
+3. **Cmentarz Żagli** - miejsce, gdzie zatopione statki służą jako fundamenty dla nowych budowli i platform.
+4. **Rynek Cieni** - targowisko, na którym można kupić rzadkie towary, od map skarbów po zakazane artefakty.

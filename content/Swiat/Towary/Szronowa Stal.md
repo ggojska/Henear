@@ -1,8 +1,8 @@
-*Szronowa Stal – metal zimniejszy od najciemniejszych nocy w Górach Północnej Grani. Niezłomna jak lodowy kryształ, a w sercu jej twardości kryje się mroźna magia, która nie zna litości ani dla ciała, ani dla ognia.*
+*Szronowa Stal - metal zimniejszy od najciemniejszych nocy w Górach Północnej Grani. Niezłomna jak lodowy kryształ, a w sercu jej twardości kryje się mroźna magia, która nie zna litości ani dla ciała, ani dla ognia.*
 
 - - -
 
-Szronowa Stal to tajemniczy metal wydobywany z głębin [[Północna Grań|Północnej Grani]]. Jego właściwości są niezwykłe i różnią się od zwykłych metali – zarówno pod względem fizycznym, jak i magicznym. Wydobywana jest w bardzo małych ilościach, co sprawia, że jest niezwykle cenna. Metal ma chłodną, niemal lodową barwę, a jego powierzchnia mieni się subtelnym błękitem, jakby pokrywał ją wieczny śnieg.
+Szronowa Stal to tajemniczy metal wydobywany z głębin [[Północna Grań|Północnej Grani]]. Jego właściwości są niezwykłe i różnią się od zwykłych metali - zarówno pod względem fizycznym, jak i magicznym. Wydobywana jest w bardzo małych ilościach, co sprawia, że jest niezwykle cenna. Metal ma chłodną, niemal lodową barwę, a jego powierzchnia mieni się subtelnym błękitem, jakby pokrywał ją wieczny śnieg.
 
 - - -
 ## **Właściwości**
@@ -14,7 +14,7 @@ Szronowa Stal to tajemniczy metal wydobywany z głębin [[Północna Grań|Pół
 - - -
 ## **Zastosowanie**
 
-- **Broń:** Szronowa Stal jest wykorzystywana do produkcji broni – szczególnie mieczy, toporów, włóczni i sztyletów – które są niezwykle wytrzymałe i skuteczne, zarówno w walce wręcz, jak i w starciach z magicznymi przeciwnikami.
+- **Broń:** Szronowa Stal jest wykorzystywana do produkcji broni - szczególnie mieczy, toporów, włóczni i sztyletów - które są niezwykle wytrzymałe i skuteczne, zarówno w walce wręcz, jak i w starciach z magicznymi przeciwnikami.
 - **Pancerze:** Zbroje wykute z Szronowej Stali oferują wyjątkową ochronę przed magią ognia, jak i przed fizycznymi atakami. Noszący je wojownik czuje się jakby otoczony wieczną zimą, a każdy atak ognia lub ciepła zostaje stłumiony.
 - **Artefakty:** Używana w produkcji magicznych przedmiotów i artefaktów, które wzmacniają zdolności kontrolowania mroźnej magii lub neutralizowania magii ognia.
 
